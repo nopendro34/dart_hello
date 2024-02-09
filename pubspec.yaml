@@ -1,0 +1,11 @@
+name: dart_hello
+description: Show "hello dart"
+version: 1.0.0
+repository: https://github.com/nopendro34/dart_hello
+
+environment:
+  sdk: ^3.2.6
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
